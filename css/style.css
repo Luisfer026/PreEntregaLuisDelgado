@@ -1,0 +1,10 @@
+body{
+    background-color: #7bb61def;
+    
+}
+header{
+    display: flex;
+    background-color:orangered;
+    padding-left: 80px;
+    border-radius: 50px;
+}
