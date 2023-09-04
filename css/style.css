@@ -1,6 +1,7 @@
 body{
     background-color: #7bb61def;
-    
+    font-family: 'Courier New', Courier, monospace;
+    color: yellow;
 }
 header{
     display: flex;

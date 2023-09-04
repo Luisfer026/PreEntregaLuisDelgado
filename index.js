@@ -16,7 +16,7 @@ while(seleccion !="si" && seleccion !="no"){
 }
 
 if(seleccion =="si"){
-    alert("a comtinuacion nuestra lista de productos")
+    alert("a continuacion nuestra lista de productos")
 
     let todoslosProductos= productos.map((producto) => producto.nombre + " " + producto.precio + "$");
     alert(todoslosProductos.join("-"))  
@@ -66,4 +66,5 @@ while(seleccion != "no"){
         break;
     }
 }
-
+const total= carrito.reduce((acc, el)=> acc + el.precio * el.unidades, 0)
+console.log(`el total a pagar es: ${total}`);
