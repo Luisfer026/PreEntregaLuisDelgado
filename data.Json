@@ -1,0 +1,26 @@
+[
+    {"id":1,
+     "nombre":"hamburguesa",
+     "precio": 30,
+     "img":"https://estaticos-cdn.elperiodico.com/clip/1a0a98f5-754d-49f3-a3dd-455d1b98203e_alta-libre-aspect-ratio_default_0.jpg"
+     },
+    {"id":2,
+     "nombre":"papas                     ",
+     "precio": 10,
+     "img":"https://images.unsplash.com/photo-1556710986-4a70434a76c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+     },
+    {"id":3,
+     "nombre":"helado",
+     "precio": 15,
+     "img":"https://images.unsplash.com/photo-1560008581-09826d1de69e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1944&q=80"
+    },
+     
+    {"id":4,
+     "nombre":"soda",
+     "precio": 10,
+    "img":"https://images.unsplash.com/photo-1624552184280-9e9631bbeee9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"},
+    {"id":5,
+     "nombre":"hot dog",
+     "precio": 15,
+    "img":"https://images.unsplash.com/photo-1541151040323-4d766525ec84?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"}  
+]
